@@ -1,0 +1,15 @@
+.flex{
+	display:flex;
+}
+.items-center{
+	align-items:center;
+}
+.justify-between{
+	justify-content: space-between;
+}
+}
+section.about h1{
+	margin-bottom:1rem;
+	font-size:1.6rem;
+}
+	
